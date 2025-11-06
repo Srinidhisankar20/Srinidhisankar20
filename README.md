@@ -23,17 +23,7 @@
   • Exploring <b>Generative AI</b> and <b>explainable ML</b> models  
   • Constantly learning and contributing to <b>open-source AI projects</b>  
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social links here -->
-  🌐 <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">LinkedIn</a> |
-  🧠 <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">Kaggle</a> |
-  💻 <a href="https://your-portfolio-link.com" target="_blank">Portfolio</a>
-</p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
